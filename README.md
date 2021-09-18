@@ -64,7 +64,7 @@ A screen capture of the application running for a specific consumer route where 
 
 ![Check Sales Service for Consumer 2](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20SaaS%20Multitenant/Day%202%20-%20Saas%20Multitenant%20-%2001%20-%20Check%20Sales%20Service%20for%20Consumer%202.png)
 
-## Day 3 - Integration
+## Day 3 - Integration Suite
 SAP Integration Suite Badge will be granted for attending Session 1 and 3 and
 submitting hands-on proof for Session 3
 
@@ -94,7 +94,15 @@ first tile to see all executions of all integration flows, change the time filte
 
 ![WebHook Detail](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%2003%20WebHook%20Detail.png)
 
-## Day 4 - Workflow
+## Day 4 - SF Onboarding
+### Requirements for badge:
+
+Capture the following two screenshots to show proof of completion. 
+
+1. The bas system workflow with the completed workflow build for the India onboarding
+2. Capture of the Workflow management with two instances started. One for USA and one for IND
+
+
 ![Workflow India](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%204%20-%20Workflow/Day%204%20-%20Workflow%20-%2001%20Workflow%20India.png)
 ![Instance for India](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%204%20-%20Workflow/Day%204%20-%20Workflow%20-%2002%20Instance%20for%20India.png)
 ![Instance for USA](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%204%20-%20Workflow/Day%204%20-%20Workflow%20-%2003%20Instance%20for%20USA.png)
