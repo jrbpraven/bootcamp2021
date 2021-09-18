@@ -65,10 +65,34 @@ A screen capture of the application running for a specific consumer route where 
 ![Check Sales Service for Consumer 2](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20SaaS%20Multitenant/Day%202%20-%20Saas%20Multitenant%20-%2001%20-%20Check%20Sales%20Service%20for%20Consumer%202.png)
 
 ## Day 3 - Integration
+SAP Integration Suite Badge will be granted for attending Session 1 and 3 and
+submitting hands-on proof for Session 3
+
+Requirements for the badge: 3 Screenshots proof for the below three requirements and
+"Get Sale Order" log file as an attachment.
+
+**1. Requirement 1/3: The integration package**
+
+This step will create the integration package where the integration flow will be stored
+and develop the integration flow.
+
 ![Deployed IFlow](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%2001%20Deployed%20IFlow.png)
+
+**2. Requirement 2/3: Message Processing Log.**
+
+The first row of tiles is for the individual executions of the integration flow. Click on the
+first tile to see all executions of all integration flows, change the time filter to see "All".
+
 ![Executions on Monitor](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%2002%20Executions%20on%20Monitor.png)
+
+["Get Sales Order" log file](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%20MessageLog-Commission_Flow-attachment_2-2_%20Get%20Sales%20Order.txt)
+
+**3. Requirement 3/3: SAP Event Mesh Webhook**
+
+The first row of tiles is for the individual executions of the integration flow. Click on the
+first tile to see all executions of all integration flows, change the time filter to see "All".
+
 ![WebHook Detail](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%2003%20WebHook%20Detail.png)
-![MessageLog-Commission_Flow-attachment_2-2_ Get Sales Order](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%203%20-%20Integration/Day%203%20-%20Integration%20-%20MessageLog-Commission_Flow-attachment_2-2_%20Get%20Sales%20Order.txt)
 
 ## Day 4 - Workflow
 ![Workflow India](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%204%20-%20Workflow/Day%204%20-%20Workflow%20-%2001%20Workflow%20India.png)
