@@ -23,11 +23,13 @@ For the Cloud Application Programming topic, to verify completion of assignments
 **Screenshots Proof as follows:**
 
 **1. Relevant Services & Instances created under Cockpit > Services & Instances.**
+
 *bookshop-db, bookshop-destination-service, bookshop-html-app-host-service, bookshop-xsuaa-service*
 
 ![Instances and services](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20CAP/Day%202%20-%20CAP%20-%2001-%20Instances%20and%20services.png)
 
 **2. Service application under Cockpit > Cloud Foundry > Dev > Applications > bookshop-srv.**
+
 *bookshop-srv*
 
 ![Check apps on BTP](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20CAP/Day%202%20-%20CAP%20-%2002%20-%20Check%20apps%20on%20BTP.png)
@@ -46,6 +48,20 @@ For the Cloud Application Programming topic, to verify completion of assignments
 ![Book Catalog App on Launchpad](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20CAP/Day%202%20-%20CAP%20-%2006%20-%20Book%20Catalog%20App%20on%20Launchpad.png)
 
 ## Day 2 - SaaS Multitenant
+### Requirements for the badge
+A screen capture of the application running for a specific consumer route where we can see:
+- The "/catalog/Sales" page
+- The full path must be visible so we can check 
+    - The subaccount name of the specific tenant/consumer 
+        - Should be different for each participant, in my case it is "059820e6trialc1"
+    - the CF space 
+        - In my case "dev", many participants might use the same space name
+    - The application name
+        - In my case "captrmsaas", many participants might use the same app name 
+    - The path will end with "/catalog/Sales" for all participants 
+- We can see some data values
+    - Values will be similar for many participants as the DB is initialized with some default values
+
 ![Check Sales Service for Consumer 2](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%202%20-%20SaaS%20Multitenant/Day%202%20-%20Saas%20Multitenant%20-%2001%20-%20Check%20Sales%20Service%20for%20Consumer%202.png)
 
 ## Day 3 - Integration
