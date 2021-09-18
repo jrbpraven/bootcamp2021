@@ -1,5 +1,11 @@
 # SAP BTP Extention Suite & Integration Suite Bootcamp 2021
 
+Exercises made by:
+
+`Fullname` | Jose Reynaldo Bautista Palomino
+`Email` | <jrbautista@indracompany.com>
+`Company` | Indra Peru
+
 ## Day 1 - 12 Factor App
 
 ### Requirements for the badge
