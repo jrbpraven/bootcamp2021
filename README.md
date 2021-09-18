@@ -2,7 +2,7 @@
 
 Exercises made by:
 
------------- | -------------
+-----------|-------------
 `Fullname` | Jose Reynaldo Bautista Palomino
 `Email` | <jrbautista@indracompany.com>
 `Company` | Indra Peru
