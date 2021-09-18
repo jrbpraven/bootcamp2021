@@ -1,6 +1,16 @@
 # SAP BTP Extention Suite & Integration Suite Bootcamp 2021
 
-## Day 1 - Cloud Native
+## Day 1 - 12 Factor App
+
+### Requirements for the badge
+A screen capture of the application running for a specific route where we can see:
+-	A URL randomly generated and different from the one below (12-dogs.cfapps….)
+-	The Configurations DOG_BREED and DOG_SUBBREED set
+-	A collection of dogs populated 
+--	It shows the DB is created and binded to the app
+-	A CF_INSTACE_INDEX > 1
+--	Shows the app is scaled out
+
 ![12-dogs app running](https://raw.githubusercontent.com/jrbpraven/bootcamp2021/main/img/Day%201%20-%20Cloud%20Native/Day%201%20-%20Cloud%20Native%20-%2001%20-%2012-dogs%20app%20running.png)
 
 ## Day 2 - CAP
